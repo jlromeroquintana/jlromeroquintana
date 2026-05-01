@@ -17,16 +17,23 @@ Jose Luis Augusto Romero Quintana es un Técnico Titulado en Desarrollo de Softw
 ```bash
 # Frameworks y librerías principales
 Vue.js (2 y 3) | Angular (13+) | React.js | Next.js
+```
 
 # Estilos y maquetación
+```bash
 HTML5 | CSS3 | Tailwind CSS | PostCSS | SASS | Bulma | Bootstrap | Materialize
+```
 
-# Lenguajes
+## Lenguajes
+```bash
 JavaScript (ES2023+) | TypeScript
-Tecnologías Mobile
-bash
+```
+## Tecnologías Mobile
+
 # Desarrollo móvil
+```bash
 Ionic | Flutter | React Native | PWAs | Apache Cordova | NativeScript | Xamarin
+```
 Tecnologías Backend
 python
 # Backend y APIs
