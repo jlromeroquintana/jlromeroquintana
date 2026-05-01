@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hola, Soy Jose Luis Augusto Romero Quintana👋</h1>
 <h3 align="center">Técnico Titulado en Desarrollo de Software, Desarrollador Full Stack con más de 6 años de experiencia en el análisis, diseño y desarrollo de soluciones tecnológicas en diversos sectores como seguros, seguridad, telecomunicaciones, pesca, salud, recursos humanos, contructora. Especializado en la integración de sistemas y la creación de aplicaciones web y móviles, con enfoque en rendimiento, escalabilidad y experiencia del usuario. Experiencia en el desarrollo frontend con HTML5, CSS3 (Tailwind, PostCSS), JavaScript (ES2023+), TypeScript, y frameworks modernos como Vue.js (2 y 3), Angular (13+), React.js, Next.js. Dominio de arquitectura modular, principios SOLID en frontend, diseño de componentes reutilizables, patrones de diseño y micro frontends. Conocimiento en estructuración del DOM, accesibilidad y SEO técnico. Experiencia en desarrollo mobile con Ionic, Flutter, React Native y PWAs. Integración de APIs REST y GraphQL, además de servicios de terceros como Firebase, Google Analytics y pasarelas de pago. Dominio de control de versiones con Git y despliegues en entornos productivos. Experiencia en backend, manejo de Node.js, Laravel, y administración de bases de datos SQL Server, MySQL, PostgreSQL y MongoDB. Capacidad para liderar equipos, trabajar con metodologías ágiles y entregar soluciones innovadoras orientadas a mejorar la eficiencia operativa y manejo de agentes IA y plataformas de chat IA como ChatGtp, Claude Code, Gemini, Visual Code Copilot.</h3>
 
@@ -23,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlromeroquintana&show_icons=true&locale=en" alt="jlromeroquintana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlromeroquintana&" alt="jlromeroquintana" /></p>
-```
